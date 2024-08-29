@@ -1,5 +1,9 @@
 # oop_API_quiz_project
 
+## Object:
+
+This project involves creating a trivia quiz application using object-oriented programming (OOP). The application will fetch questions from a trivia API, evaluate user answers, and track points throughout the quiz.
+
 ## Process:
 
 1. create four pages, api.py, main.py, question_model.py, and quiz_brain.py
